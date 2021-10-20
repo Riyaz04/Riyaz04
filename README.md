@@ -6,21 +6,29 @@
 </body>
 </html>
 </h1>
-<h3 align="center">I am Computer Science Student</h3>
+<h3 align="center">I am Computer Science Student</h3>   
 
-
+<!DOCTYPE html>
+<html>
+<body>
+<p><h1 align="center"> <img src="https://github.com/Riyaz04/Riyaz04/blob/main/giphy.gif" alt="Computer man" style="width:300px;height:200px;"></p>
+</body>
+</html>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyaz04&label=Profile%20views&color=0e75b6&style=flat" alt="riyaz04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyaz04" alt="riyaz04" /></a> </p>
 
-- 🔭 I’m currently working on **Learn New Things..**
+<p><h3 
+       
+ -🔭 I’m currently working on **Learn New Things..**
 
 - 🌱 I’m currently learning **Data Science, Python**
 
 - 📫 How to reach me **riyazansari048@gmail.com**
 
 - ⚡ Fun fact **I think I am Lazy**
+       </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
