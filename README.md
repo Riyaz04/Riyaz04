@@ -19,9 +19,9 @@
 
 
   <a>
-    <img align="left" height="130" width="155" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
+    <img align="left" height="130" width="155" src=https://github.com/Riyaz04/Riyaz04/blob/4f5fa6ee6ce57af5570779a720864fcd0157b101/left%20wing.png>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Riyaz04&theme=dark&hide_border=true"/>
-    <img align="right" height="130" width="155" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
+    <img align="right" height="130" width="155" src=https://github.com/Riyaz04/Riyaz04/blob/4f5fa6ee6ce57af5570779a720864fcd0157b101/right%20wing.png>
   </a>
 </p>
 
