@@ -3,7 +3,9 @@
 <html>
 <body>
 <p><h1 align="center"> Hi  👋  I'm Riyaz Ansari</p>
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">
+ <div>
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVqa3k0NmtneGNrNnZydmZnYTd6Z2xxMnNhcWt6cjkyYmVtcXo2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif">
+ </div>
 </body>
 </html>
 </h1>
