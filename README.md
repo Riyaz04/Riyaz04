@@ -4,7 +4,7 @@
 <body>
 <p><h1 align="center"> Hi  👋  I'm Riyaz Ansari</p>
  <div>
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVqa3k0NmtneGNrNnZydmZnYTd6Z2xxMnNhcWt6cjkyYmVtcXo2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif">
+   <img src="https://github.com/Riyaz04/Riyaz04/blob/main/prg.gif?raw=true">
  </div>
 </body>
 </html>
