@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<p><h1 align="center"> Hi  👋  I'm Riyaz Ansari<img src="https://user-images.githubusercontent.com/88748139/138057649-ec116a08-f90c-478e-bc55-96760f426ac1.gif" alt="Computer man" style="width:65px;height:35px;"></p>
+<p><h1 align="center"> Hi  👋  I'm Riyaz Ansari<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">via GIPHY</a></p>></p>
 </body>
 </html>
 </h1>
