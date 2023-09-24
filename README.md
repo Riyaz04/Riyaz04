@@ -2,11 +2,12 @@
 <!DOCTYPE html>
 <html>
 <body>
-<p><h1 align="center"> Hi  👋  I'm Riyaz Ansari<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">via GIPHY</a></p>></p>
+<p><h1 align="center"> Hi  👋  I'm Riyaz Ansari</p>
+  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">
 </body>
 </html>
 </h1>
-<h3 align="center">I am Computer Science Student</h3>   
+<h3 align="center">I am Web Developer</h3>   
 
 <!DOCTYPE html>
 <html>
