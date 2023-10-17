@@ -15,7 +15,7 @@
 <html>
 <body>
 <p >
-        <img align="center" src="https://github.com/Riyaz04/Riyaz04/blob/main/giphy.gif" alt="Computer man"
+        <img style="text-align:center" src="https://github.com/Riyaz04/Riyaz04/blob/main/giphy.gif" alt="Computer man"
             style="width:300px;height:200px;">
     </p></body>
 </html>
