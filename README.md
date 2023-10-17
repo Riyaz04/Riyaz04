@@ -14,8 +14,10 @@
 <!DOCTYPE html>
 <html>
 <body>
-<p><h1 align="center"> <img src="https://github.com/Riyaz04/Riyaz04/blob/main/giphy.gif" alt="Computer man" style="width:300px;height:200px;"></p>
-</body>
+ <h1 align="center">
+        <img src="https://github.com/Riyaz04/Riyaz04/blob/main/giphy.gif" alt="Computer man"
+            style="width:300px;height:200px;">
+    </h1></body>
 </html>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyaz04&label=Profile%20views&color=0e75b6&style=flat" alt="riyaz04" /> </p>
